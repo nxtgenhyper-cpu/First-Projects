@@ -4,7 +4,7 @@ This are my first Projects
 ## Local LLM Setup
 
 - Install LMStudio:
-  [https://ollama.com/download](https://lmstudio.ai/download)
+  https://lmstudio.ai/download
 
 - Choose your Model:
 
